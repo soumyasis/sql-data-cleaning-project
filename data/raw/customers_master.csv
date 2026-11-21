@@ -1,0 +1,207 @@
+customer_id,first_name,middle_name,last_name,sex,date_of_birth,email,city,segment,signup_date
+C132,Subhajit,,Kapoor,M,1981-04-20,subhajit.kapoor82@gmail.com,Patna,Premium,2024-10-27
+C118,Anirban,,Chatterjee,M,1988-12-17,ANIRBAN.CHATTERJEE57@HOTMAIL.COM,CHENNAI,Premium,2025-08-16
+C064,Kavita,,Gupta,female,1970-04-01,kavita.gupta4@gmail.com,Ahmedabad,Regular,2025-10-31
+C057,Anirban,Subhajit,Sharma,M,1993-10-16,anirban.sharma67@yahoo.com,NAGPUR,Regular,2024-05-10
+C050,Gaurav,Ayan,Yadav,M,1960-09-30,gaurav.yadav53@yahoo.com,Ahmedabad,Premium,2025-03-09
+C061,Shreya,,Sharma,female,1958-01-27,shreya.sharma39@outlook.com,Pune,Regular,2025-08-08
+C020,Sumit,,Kumar,M,1966-10-03,sumit.kumar1@outlook.com,surat,Premium,2025-05-17
+C172,  rohan ,,Bose,M,1992-09-04,rohan.bose9@yahoo.com,Kolkata,Premium,2025-09-01
+C164,Subhajit,,Roy,M,1968-12-04,subhajit.roy53@outlook.com,Patna,Regular,2024-04-17
+C157,Kavita,,Sharma,F,1983-11-13,kavita.sharma23@outlook.com,delhi,Premium,2024-11-18
+C006,Anjali,,Das,F,2001-12-09,anjali.das94@hotmail.com,Guwahati,Premium,2025-06-19
+C174,Sonali,, DUTTA  ,F,2007-03-03,sonali.dutta11@gmail.com,Bengaluru,Premium,2025-09-11
+C160,  Amit ,,BOSE,M,1999-11-11,amit.bose55@gmail.com,Surat,Basic,2024-02-06
+C115,Isha,,Bose,F,1959-10-31,isha.bose98@gmail.com,Patna,Premium,2024-05-27
+C130,Divya,Sunita,Pal,Female,1977-02-06,divya.pal69@hotmail.com,Kanpur,Basic,2024-09-26
+C102,Sneha,,SINGH,Female,1963-02-17,sneha.singh72@hotmail.com,Chandigarh,Basic,2025-09-28
+C062,swati,,Pal,F,1977-05-10,swati.pal28@hotmail.com,Hyderabad,Basic,2024-09-28
+C117,Ananya,Anjali,Dutta,female,1961-09-19,ananya.dutta97@hotmail.com,PATNA,Premium,2025-06-12
+C002,tanmoy,,Sharma,M,1957-08-04,TANMOY.SHARMA12@YAHOO.COM,Ahmedabad,Basic,2025-06-19
+C003,Sumit,Ravi, Nair  ,m,1974-08-09,sumit.nair70@hotmail.com,Ahmedabad,Regular,2024-05-30
+C036,  Tanmoy ,, Kumar  ,M,1968-12-22,tanmoy.kumar21@gmail.com,Vadodara,Premium,2025-05-22
+C011,Debashis,, Verma  ,M,1971-09-21,debashis.verma82@yahoo.com,Kanpur,Premium,2024-12-18
+C168,aditi,Isha,Dutta,F,1987-05-16,aditi.dutta40@outlook.com,Chennai,Basic,2024-06-03
+C179,Rahul,,Jain,male,1959-11-18,rahul.jain23@yahoo.com,Indore,Basic,2024-03-28
+C007,sneha,, SAHA  ,F,1993-01-01,sneha.saha80@outlook.com,bhubaneswar,Premium,2024-01-28
+C076,Puja,,Bose,F,1995-08-07,puja.bose44@hotmail.com,Hyderabad,Regular,2024-09-27
+C100,meera,,Ghosh,Female,1989-12-15,meera.ghosh24@gmail.com,Jaipur,Regular,2025-07-05
+C021,Suresh,,Chatterjee,M,1984-08-25,suresh.chatterjee31@gmail.com,Ahmedabad,Basic,2024-08-12
+C040,Swati,Sonali,Banerjee,F,1961-04-27,swati.banerjee2@hotmail.com,CHANDIGARH,Basic,2025-09-16
+C103,  ayan ,,Agarwal,M,1998-06-10,ayan.agarwal57@outlook.com,Bhubaneswar,Regular,2024-07-10
+C096,  Rajesh ,Sumit,KAPOOR,M,1985-06-23,rajesh.kapoor89@yahoo.com,Pune,Premium,2024-03-23
+C155,Tanmoy,Sandeep,Ghosh,Male,2000-09-25,tanmoy.ghosh19@gmail.com,JAIPUR,Premium,2024-10-21
+C053,Kavita,Komal,Patel,F,1972-07-19,kavita.patel52@outlook.com,Jaipur,Premium,2024-03-27
+C059,  Komal ,,BOSE,F,2008-03-04,komal.bose90@outlook.com,Guwahati,Premium,2025-07-16
+C071,Sanjay,Anirban,GHOSH,M,1965-05-23,sanjay.ghosh41@gmail.com,Bengaluru,Premium,2024-05-31
+C069,Tanvi,,Mukherjee,F,1999-08-21,tanvi.mukherjee96@hotmail.com,Patna,Regular,2024-11-12
+C047,Debjani,,YADAV,female,1970-02-23,debjani.yadav91@hotmail.com,Guwahati,Premium,2025-04-25
+C104,Sayani,,Dutta,F,1999-05-16,SAYANI.DUTTA95@GMAIL.COM,Pune,Basic,2024-12-20
+C148,rupa,Sneha,Saha,F,1992-08-01,rupa.saha60@outlook.com,Bhopal,Premium,2024-03-03
+C077,Nikhil,,Bose,M,1980-07-10,nikhil.bose76@gmail.com,Mumbai,Basic,2024-05-10
+C177,Nandini,,Das,F,1988-08-24,nandini.das29@hotmail.com,Chandigarh,Premium,2024-05-06
+C161,Sneha,,Ghosh,Female,1960-01-06,sneha.ghosh78@yahoo.com,Mumbai,Premium,2024-09-29
+C099,Sumit,Rohan,Saha,M,2004-11-11,sumit.saha97@hotmail.com,Chennai,Premium,2024-06-13
+C128,Riya,,Agarwal,F,2005-07-24,riya.agarwal13@hotmail.com,Kolkata,Basic,2025-05-10
+C048,sourav,,NAIR,M,1974-01-21,sourav.nair20@gmail.com,Nagpur,Basic,2025-05-20
+C092,Sandeep,,Mehta,M,1992-06-06,sandeep.mehta72@yahoo.com,Surat,Basic,2025-06-27
+C084,shreya,,PATEL,F,1996-06-22,shreya.patel10@yahoo.com,Chennai,Basic,2024-01-10
+C111,  Subhajit ,,Dutta,M,1977-12-12,subhajit.dutta33@gmail.com,Mumbai,Premium,2024-12-05
+C145,Rohan,,Roy,M,1990-11-17,rohan.roy87@hotmail.com,Guwahati,Regular,2024-05-24
+C125,anjali,Sonali,Yadav,female,1997-03-02,anjali.yadav49@hotmail.com,Kanpur,Premium,2024-10-15
+C167,Tanmoy,,Yadav,M,1968-05-17,tanmoy.yadav43@gmail.com,Bhopal,Regular,2024-06-25
+C197,Kunal,,SAHA,M,1961-05-05,kunal.saha43@yahoo.com,Vadodara,Premium,2025-09-13
+C008,Amit,,Kapoor,M,1996-01-27,amit.kapoor38@gmail.com,Ahmedabad,Premium,2024-10-14
+C027,Aditya,Gaurav,Mehta,M,1979-04-19,aditya.mehta28@yahoo.com,BHUBANESWAR,Basic,2025-03-04
+C056,Aditi,,Jain,F,1999-06-11,aditi.jain78@gmail.com,INDORE,Basic,2025-05-09
+C070,Ravi,Ayan,Kumar,M,1965-08-12,RAVI.KUMAR63@YAHOO.COM,Jaipur,Regular,2024-06-14
+C060,  Subhajit ,,Bose,M,1959-09-12,subhajit.bose87@yahoo.com,Chandigarh,Basic,2024-05-17
+C192,nandini,Ananya,Agarwal,female,1977-03-25,nandini.agarwal14@outlook.com,Mumbai,Basic,2024-01-05
+C141,Nikhil,Ayan,Reddy,M,1998-11-02,nikhil.reddy99@yahoo.com,Chennai,Basic,2024-01-06
+C073,Tanvi,,DAS,F,1992-07-26,tanvi.das27@hotmail.com,Indore,Basic,2024-06-13
+C131,Tanvi,Sneha,Roy,F,2001-08-06,tanvi.roy81@outlook.com,Ahmedabad,Basic,2025-04-09
+C025,Sandeep,Rajesh,Sharma,m,1962-03-15,sandeep.sharma76@yahoo.com,BHUBANESWAR,Premium,2024-09-12
+C044,Arjun,,Gupta,M,1999-02-24,arjun.gupta35@outlook.com,Chandigarh,Premium,2025-08-30
+C079,Manish,Ayan,Bose,M,1989-06-22,manish.bose36@hotmail.com,Jaipur,Premium,2024-01-31
+C144,Debjani,Meera,CHATTERJEE,Female,1978-05-17,debjani.chatterjee96@outlook.com,Chennai,Regular,2024-01-16
+C022,Sourav,,Banerjee,M,1974-10-19,sourav.banerjee98@yahoo.com,BENGALURU,Basic,2024-03-21
+C129,subhajit,,GUPTA,Male,1969-07-30,SUBHAJIT.GUPTA10@HOTMAIL.COM,Jaipur,Regular,2025-05-28
+C107,Kunal,,Nair,Male,2007-10-12,kunal.nair59@gmail.com,Ahmedabad,Regular,2024-03-26
+C091,moumita,,Nair,F,2002-04-13,moumita.nair36@gmail.com,Vadodara,Premium,2025-10-09
+C139,moumita,Komal,Kapoor,f,1970-11-16,moumita.kapoor96@gmail.com,Chandigarh,Basic,2023-11-27
+C163,  Swati ,,Jain,F,1963-04-29,swati.jain13@gmail.com,Guwahati,Basic,2024-06-02
+C085,komal,,Singh,f,1982-01-27,komal.singh73@gmail.com,NAGPUR,Basic,2024-09-13
+C068,Manish,,YADAV,M,1989-11-11,MANISH.YADAV77@OUTLOOK.COM,Patna,Basic,2024-09-24
+C067,Sanjay,,Das,Male,1970-05-11,sanjay.das72@yahoo.com,Chennai,Regular,2025-04-14
+C023,Tanvi,Nandini,Dutta,Female,1970-07-17,tanvi.dutta55@yahoo.com,Guwahati,Basic,2025-07-07
+C039,  Moumita ,Payel,GHOSH,F,2008-06-30,moumita.ghosh31@outlook.com,Indore,Premium,2024-07-03
+C055,Debjani,, Verma  ,F,1974-04-05,debjani.verma5@gmail.com,CHANDIGARH,Regular,2025-11-09
+C121,Puja,,Mehta,f,1964-06-12,puja.mehta32@hotmail.com,Guwahati,Premium,2024-02-29
+C166,Sneha,Sneha, Banerjee  ,F,1965-06-06,sneha.banerjee56@gmail.com,NAGPUR,Premium,2024-10-14
+C106,Rahul,,Nair,M,1966-04-16,rahul.nair77@hotmail.com,Lucknow,Premium,2024-09-07
+C182,isha,Priya,Ghosh,F,1986-11-08,ISHA.GHOSH22@HOTMAIL.COM,Nagpur,Premium,2024-06-30
+C185,  ayan ,Partha,Saha,M,1993-09-16,ayan.saha19@yahoo.com,Chennai,Premium,2025-04-19
+C088,Rupa,,Yadav,F,1993-07-15,rupa.yadav62@hotmail.com,Bhopal,Basic,2025-09-20
+C171,Priya,Payel,KAPOOR,F,1959-05-02,priya.kapoor40@outlook.com,Nagpur,Premium,2025-04-11
+C175,Gaurav,Manish, Pal  ,M,1971-12-23,gaurav.pal55@hotmail.com,CHANDIGARH,Regular,2024-03-30
+C042,Suresh,Manish,YADAV,M,1962-10-06,suresh.yadav91@outlook.com,Chandigarh,Basic,2024-09-12
+C081,ayan,Sandeep,Patel,m,1963-05-09,ayan.patel3@yahoo.com,Ahmedabad,Premium,2024-03-19
+C082,komal,Neha,Agarwal,F,1998-08-03,komal.agarwal90@outlook.com,nagpur,Premium,2024-03-25
+C033,Meera,Shreya,Das,F,1993-06-16,meera.das22@hotmail.com,Kolkata,Regular,2024-07-06
+C200,gaurav,Ayan, Dutta  ,M,2001-11-02,gaurav.dutta17@hotmail.com,Bengaluru,Premium,2025-09-21
+C049,Subhajit,Kunal, Sen  ,M,2002-05-28,subhajit.sen6@outlook.com,Pune,Basic,2025-04-08
+C026,Sourav,, DAS  ,M,1962-06-21,sourav.das30@gmail.com,DELHI,Regular,2024-08-26
+C054,Anjali,,Bose,F,1987-05-07,anjali.bose87@outlook.com,KOLKATA,Premium,2024-09-11
+C112,ayan,,Verma,M,1957-03-20,ayan.verma74@gmail.com,Hyderabad,Regular,2024-02-16
+C018,Riya,Debjani,Agarwal,F,1974-10-27,riya.agarwal1@outlook.com,VADODARA,Premium,2025-08-11
+C120,manish,,Saha,M,1992-02-21,MANISH.SAHA20@HOTMAIL.COM,LUCKNOW,Basic,2025-07-08
+C052,  Abhishek ,,MEHTA,M,1992-03-28,abhishek.mehta29@yahoo.com,PATNA,Regular,2025-06-10
+C015,kavita,, GUPTA  ,F,2003-08-13,kavita.gupta66@hotmail.com,Mumbai,Premium,2025-01-18
+C083,Ayan,,CHATTERJEE,M,2002-03-13,ayan.chatterjee14@gmail.com,Lucknow,Basic,2024-10-14
+C085,komal,,Singh,f,1982-01-27,komal.singh73@gmail.com,NAGPUR,Basic,2024-09-13
+C191,manish,,MISHRA,M,1960-01-15,MANISH.MISHRA84@YAHOO.COM,Kanpur,Basic,2025-06-24
+C030,  Aditi ,Riya, Roy  ,F,1987-02-26,aditi.roy25@yahoo.com,Guwahati,Regular,2025-01-11
+C004,Priya,, MUKHERJEE  ,F,1971-01-29,priya.mukherjee90@hotmail.com,KANPUR,Regular,2024-03-09
+C024,Sanjay,Gaurav, Saha  ,M,1978-10-18,sanjay.saha48@hotmail.com,Vadodara,Regular,2024-02-09
+C199,  Sandeep ,,Gupta,M,1996-05-19,sandeep.gupta10@outlook.com,Chennai,Basic,2024-01-13
+C195,Riya,,Bose,F,1992-01-13,riya.bose37@outlook.com,Chandigarh,Premium,2024-03-23
+C038,Tanmoy,,Dutta,M,2000-11-20,tanmoy.dutta11@hotmail.com,Bhubaneswar,Basic,2024-05-17
+C196,Sneha,,Gupta,f,1959-10-05,sneha.gupta45@outlook.com,INDORE,Premium,2024-12-20
+C169,  Rohan ,,Roy,M,1961-01-07,rohan.roy14@outlook.com,Guwahati,Regular,2024-10-31
+C194,  Shreya ,, Ghosh  ,F,1988-05-02,SHREYA.GHOSH87@GMAIL.COM,Kanpur,Premium,2024-12-16
+C046,ravi,, Verma  ,m,1981-01-29,ravi.verma6@gmail.com,Kanpur,Premium,2024-08-23
+C147,Divya,,Singh,F,1988-12-03,DIVYA.SINGH87@YAHOO.COM,Surat,Premium,2024-05-06
+C098,Kavita,Isha,Sharma,F,2005-01-10,kavita.sharma91@yahoo.com,Jaipur,Premium,2025-10-02
+C186,Neha,Pooja,Kapoor,F,2004-10-11,neha.kapoor98@gmail.com,Hyderabad,Basic,2024-12-04
+C122,Neha,,Kumar,female,2000-10-14,neha.kumar96@yahoo.com,Mumbai,Regular,2024-11-25
+C110,Payel,Shreya,Verma,Female,1955-12-06,payel.verma65@hotmail.com,Patna,Premium,2025-03-01
+C043,Gaurav,,Chatterjee,M,1974-10-22,gaurav.chatterjee85@gmail.com,BENGALURU,Regular,2024-11-08
+C133,Priya,Ananya,Chatterjee,F,1991-02-10,priya.chatterjee46@outlook.com,Bhopal,Premium,2024-11-06
+C135,Rupa,, Mehta  ,F,1971-03-07,rupa.mehta75@yahoo.com,ahmedabad,Regular,2024-01-10
+C080,Priya,,Das,F,2007-04-28,priya.das45@yahoo.com,Mumbai,Basic,2023-12-28
+C198,Nandini,Anjali,CHATTERJEE,female,1968-07-14,nandini.chatterjee24@yahoo.com,Kanpur,Regular,2024-01-14
+C193,Amit,Manish,Agarwal,M,1959-04-21,amit.agarwal68@yahoo.com,Nagpur,Regular,2025-02-17
+C170,Ayan,Sandeep,Jain,m,1993-05-04,AYAN.JAIN72@GMAIL.COM,Chandigarh,Basic,2024-02-06
+C184,Kavita,Debjani,BANERJEE,f,2005-08-07,kavita.banerjee66@gmail.com,Vadodara,Basic,2025-07-22
+C143,Sunita,,Mukherjee,F,1958-01-10,SUNITA.MUKHERJEE26@YAHOO.COM,GUWAHATI,Regular,2025-09-19
+C173,Abhishek,,Ghosh,M,1956-11-22,abhishek.ghosh21@outlook.com,Lucknow,Basic,2024-02-02
+C013,Neha,, BOSE  ,F,1994-01-30,neha.bose83@hotmail.com,Bengaluru,Regular,2024-04-24
+C113,moumita,Sayani, Jain  ,F,1980-08-03,moumita.jain82@hotmail.com,Mumbai,Regular,2025-10-04
+C012,  amit ,,Bose,Male,1996-11-09,amit.bose35@gmail.com,pune,Basic,2023-12-12
+C086,Komal,Nandini, Saha  ,female,1996-06-09,komal.saha44@gmail.com,Bhopal,Regular,2024-11-19
+C137,  Sayani ,Puja,Nair,F,1995-12-04,sayani.nair33@hotmail.com,Lucknow,Premium,2025-01-25
+C153,Ananya,Neha,Singh,F,1983-08-04,ananya.singh59@gmail.com,pune,Basic,2024-04-17
+C105,Anirban,,Mukherjee,M,1997-05-01,anirban.mukherjee31@yahoo.com,GUWAHATI,Premium,2024-04-24
+C035,  neha ,,MISHRA,F,1980-07-01,neha.mishra95@gmail.com,KANPUR,Premium,2025-02-12
+C109,Debashis,,Dutta,Male,1991-12-25,debashis.dutta96@outlook.com,patna,Premium,2025-11-04
+C051,Subhajit,Partha,Ghosh,M,1999-02-06,subhajit.ghosh53@yahoo.com,JAIPUR,Premium,2024-04-02
+C176,moumita,Nandini,Singh,F,1983-07-19,moumita.singh45@hotmail.com,Chennai,Regular,2024-12-03
+C149,Amit,,Chatterjee,M,2005-02-11,amit.chatterjee64@gmail.com,CHENNAI,Premium,2025-11-17
+C150,Abhishek,,Pal,M,1994-10-01,abhishek.pal96@hotmail.com,bhubaneswar,Basic,2025-02-11
+C005,  Vikram ,,GHOSH,M,2006-01-03,vikram.ghosh14@gmail.com,indore,Premium,2024-02-09
+C134,Aditya,,Pal,M,1964-02-15,aditya.pal24@yahoo.com,Hyderabad,Premium,2024-06-01
+C045,  Neha ,, Verma  ,F,1980-09-18,neha.verma65@hotmail.com,Jaipur,Premium,2024-03-27
+C097,Moumita,,Kapoor,f,1986-10-07,moumita.kapoor68@outlook.com,Chennai,Premium,2023-11-24
+C183,Riya,Sayani, BOSE  ,F,1984-09-03,riya.bose68@gmail.com,Indore,Regular,2025-05-16
+C029,  Anjali ,,Agarwal,F,1958-11-05,anjali.agarwal94@gmail.com,CHENNAI,Premium,2025-06-10
+C136,Swati,Priya,Agarwal,F,1978-11-24,swati.agarwal37@yahoo.com,Mumbai,Regular,2023-12-08
+C146,Abhishek,Sumit,SINGH,M,1974-11-03,abhishek.singh59@outlook.com,jaipur,Basic,2025-04-24
+C156,Sumit,Debashis,Singh,m,1980-01-01,sumit.singh85@gmail.com,Bengaluru,Premium,2024-10-16
+C187,Swati,,Kapoor,female,1966-06-04,swati.kapoor75@hotmail.com,Bhubaneswar,Basic,2024-04-17
+C072,abhishek,,Nair,M,2006-08-02,abhishek.nair28@gmail.com,BHOPAL,Regular,2025-01-31
+C119,  Sanjay ,Sumit,Sharma,M,1960-08-07,sanjay.sharma71@hotmail.com,mumbai,Premium,2025-07-04
+C162,Rupa,,YADAV,F,2005-06-11,RUPA.YADAV92@OUTLOOK.COM,Indore,Basic,2024-08-11
+C110,Payel,Shreya,Verma,Female,1955-12-06,payel.verma65@hotmail.com,Patna,Premium,2025-03-01
+C138,Meera,Shreya,Mishra,F,1971-07-20,meera.mishra46@outlook.com,Lucknow,Premium,2025-02-21
+C075,Tanvi,,Yadav,Female,1985-01-16,tanvi.yadav78@yahoo.com,Surat,Premium,2025-10-19
+C189,suresh,,Chatterjee,male,1959-11-14,suresh.chatterjee60@hotmail.com,DELHI,Premium,2025-02-13
+C095,  Anjali ,,Verma,f,1963-06-25,anjali.verma40@outlook.com,ahmedabad,Premium,2024-07-06
+C152,Neha,,Roy,F,1988-01-28,NEHA.ROY47@GMAIL.COM,nagpur,Basic,2025-08-10
+C151,Subhajit,,Mehta,M,1988-01-21,SUBHAJIT.MEHTA79@HOTMAIL.COM,Jaipur,Premium,2024-05-28
+C181,Subhajit,Sourav,Ghosh,M,1982-06-16,subhajit.ghosh74@hotmail.com,BHUBANESWAR,Regular,2024-06-14
+C094,Kunal,,Sen,M,1999-07-05,kunal.sen61@outlook.com,bhopal,Basic,2024-08-12
+C019,  ravi ,Ravi,Kumar,M,1956-05-01,ravi.kumar78@yahoo.com,Bengaluru,Regular,2025-07-03
+C028,  Kavita ,,Jain,f,1973-11-21,KAVITA.JAIN25@GMAIL.COM,Chennai,Basic,2025-08-09
+C037,Sourav,,Pal,M,1960-08-15,sourav.pal31@hotmail.com,Chennai,Basic,2023-12-27
+C058,Gaurav,,Dutta,Male,2002-06-24,gaurav.dutta41@gmail.com,Lucknow,Basic,2024-07-30
+C032,  Ravi ,,Sharma,Male,1981-08-25,ravi.sharma12@yahoo.com,Hyderabad,Regular,2024-01-22
+C066,Kavita,Payel, Sharma  ,f,2004-09-28,KAVITA.SHARMA97@GMAIL.COM,Bhopal,Premium,2024-07-23
+C141,Nikhil,Ayan,Reddy,M,1998-11-02,nikhil.reddy99@yahoo.com,Chennai,Basic,2024-01-06
+C090,  Sunita ,Sunita,Mukherjee,F,2004-12-07,sunita.mukherjee63@yahoo.com,Nagpur,Regular,2024-02-18
+C159,Manish,,DUTTA,M,2001-09-17,manish.dutta6@outlook.com,patna,Basic,2025-04-12
+C031,Subhajit,Manish,Roy,M,1964-05-20,subhajit.roy10@hotmail.com,guwahati,Premium,2025-11-07
+C087,Subhajit,,SAHA,male,1991-11-24,subhajit.saha59@yahoo.com,Bhopal,Premium,2024-06-04
+C093,Swati,, Banerjee  ,F,1974-01-17,swati.banerjee38@yahoo.com,Indore,Basic,2025-07-10
+C142,Kunal,,Das,M,1971-06-21,kunal.das75@outlook.com,BENGALURU,Premium,2024-01-13
+C127,Shreya,, Saha  ,Female,1992-08-03,shreya.saha20@hotmail.com,Delhi,Premium,2025-06-30
+C154,amit,,Roy,Male,1962-04-23,amit.roy17@yahoo.com,Mumbai,Basic,2024-02-05
+C014,Sandeep,, Yadav  ,M,2004-08-12,sandeep.yadav34@hotmail.com,bhubaneswar,Regular,2025-04-09
+C078,Pooja,,Mukherjee,F,1965-04-21,pooja.mukherjee7@outlook.com,INDORE,Regular,2024-12-21
+C188,divya,Swati,Banerjee,F,1976-01-30,divya.banerjee61@hotmail.com,Lucknow,Regular,2024-05-09
+C180,Aditya,,PAL,M,1981-09-05,aditya.pal46@gmail.com,Indore,Basic,2023-11-23
+C178,vikram,Vikram,Kapoor,male,1983-03-07,vikram.kapoor18@outlook.com,Lucknow,Regular,2025-10-22
+C190,Isha,Sneha,Dutta,F,2005-12-15,isha.dutta77@hotmail.com,Patna,Basic,2025-01-16
+C034,swati,Payel,Reddy,F,1998-09-01,swati.reddy72@hotmail.com,Bengaluru,Premium,2025-03-16
+C063,Kunal,,Saha,M,1974-02-09,kunal.saha80@outlook.com,Mumbai,Premium,2024-01-12
+C123,Sunita,, KUMAR  ,f,1993-04-21,sunita.kumar35@gmail.com,LUCKNOW,Basic,2024-03-29
+C108,Subhajit,Sandeep,Saha,M,1992-08-05,subhajit.saha20@outlook.com,Bengaluru,Premium,2025-07-18
+C089,sunita,,Banerjee,F,1956-09-02,SUNITA.BANERJEE36@HOTMAIL.COM,ahmedabad,Regular,2025-05-03
+C055,Debjani,, Verma  ,F,1974-04-05,debjani.verma5@gmail.com,CHANDIGARH,Regular,2025-11-09
+C140,Isha,,ROY,f,1960-09-20,isha.roy78@outlook.com,Ahmedabad,Basic,2025-05-24
+C101,sourav,,BANERJEE,M,1968-01-18,sourav.banerjee74@gmail.com,Bengaluru,Premium,2024-12-20
+C017,  Nandini ,Tanvi,Sharma,F,1986-06-17,nandini.sharma88@gmail.com,Guwahati,Regular,2025-02-21
+C116,Moumita,Sonali, Bose  ,F,1994-07-01,moumita.bose66@gmail.com,guwahati,Regular,2024-01-22
+C165,Aditi,Puja,Ghosh,F,1992-05-20,aditi.ghosh86@outlook.com,Nagpur,Premium,2024-11-04
+C041,  Sourav ,,KUMAR,Male,1971-09-25,sourav.kumar34@yahoo.com,NAGPUR,Premium,2025-09-25
+C001,Rahul,,Roy,M,1999-05-28,RAHUL.ROY29@YAHOO.COM,Chennai,Basic,2024-02-16
+C074,Ayan,,Mehta,M,2006-09-22,ayan.mehta1@outlook.com,Lucknow,Regular,2025-02-18
+C009,Moumita,,Sen,F,1958-01-19,moumita.sen21@outlook.com,Nagpur,Premium,2023-12-15
+C061,Shreya,,Sharma,female,1958-01-27,shreya.sharma39@outlook.com,Pune,Regular,2025-08-08
+C158,Nandini,Sneha,Mehta,F,2005-07-03,nandini.mehta58@outlook.com,Vadodara,Basic,2024-01-03
+C157,Kavita,,Sharma,F,1983-11-13,kavita.sharma23@outlook.com,delhi,Premium,2024-11-18
+C124,sayani,,Pal,F,1973-12-05,sayani.pal63@yahoo.com,Patna,Basic,2025-01-04
+C114,Puja,Komal, Singh  ,F,1976-10-25,puja.singh21@outlook.com,Bhopal,Basic,2024-05-25
+C065,Manish,,SAHA,M,1994-06-27,manish.saha74@yahoo.com,Indore,Regular,2025-10-02
+C016,Rohan,,Pal,M,1984-06-09,rohan.pal55@gmail.com,Indore,Regular,2024-05-11
+C126,Tanmoy,Ayan,Jain,M,1970-04-21,tanmoy.jain6@outlook.com,Surat,Basic,2025-11-12
+C010,Payel,,Saha,F,1962-04-07,payel.saha10@yahoo.com,Guwahati,Basic,2024-05-09
